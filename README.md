@@ -2,8 +2,8 @@
 
 ## About Me
 
-Education:\
-Bsc. Mechanical Engineer w/ Computer Science Minor (Completed)\
+**Education:**\
+Bsc. Mechanical Engineering, Computer Science Minor (Completed)\
 MEng. Software Engineering (In Progress)
 
 ## Programming Languages
