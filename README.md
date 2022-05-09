@@ -2,8 +2,9 @@
 
 ## About Me
 
-Bsc. Mechanical Engineer w/ Computer Science Minor
-MEng. Software Engineering Student
+Education:\
+Bsc. Mechanical Engineer w/ Computer Science Minor (Completed)\
+MEng. Software Engineering (In Progress)
 
 ## Programming Languages
 
