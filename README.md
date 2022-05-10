@@ -35,9 +35,9 @@ MEng. Software Engineering (In Progress)
 
 ## Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/jonathan-lui-42239b130/"><img alt="Linkedin" title="Jonathan Lui" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <p align="center">
+ <p>
   <a href="mailto:jonathanlhlui@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
