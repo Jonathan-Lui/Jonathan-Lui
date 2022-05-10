@@ -9,7 +9,7 @@ MEng. Software Engineering (2022-Present)
 ## Programming Languages
 
 <p>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/-java-red"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/-Java-red"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
