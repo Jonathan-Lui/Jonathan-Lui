@@ -3,7 +3,7 @@
 ## About Me
 
 **Education:**\
-Bsc. Mechanical Engineering, Computer Science Minor (2016-2022)\
+BSc. Mechanical Engineering, Computer Science Minor (2016-2022)\
 MEng. Software Engineering (2022-Present)
 
 ## Programming Languages
